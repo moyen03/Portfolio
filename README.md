@@ -23,3 +23,9 @@
 10. http://www.taraartemis.com/ (php, html/css, js) 
 
 11. https://allstringsnylon.com (Magento for update, support and maintenance ) and so on...
+12. 
+
+
+# Online Courses taken over the time 
+
+https://www.codeschool.com/users/2301563
