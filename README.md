@@ -28,3 +28,14 @@
 # Online Courses taken over the time 
 
 https://www.codeschool.com/users/2301563
+
+# GitHub Projects
+
+1. http://moyen03.github.io/landingpage/                 >> HTML5/CSS3, Javascript
+2. http://moyen03.github.io/Bootstrap-website/           >> Bootstrap
+3. http://moyen03.github.io/Bootstrap-Portfolio/         >> Bootstrap
+4. http://moyen03.github.io/Udacity-FNND-P2/             >> Javascript
+5. http://moyen03.github.io/Hotel-Search-Form/           >> HTML/CSS, jQuery
+6. http://moyen03.github.io/Udacity-FNND-P1/             >> HTML/CSS
+7. http://moyen03.github.io/Bootstrap-About-Me/          >> Bootstrap
+8. http://moyen03.github.io/nyt-api/                     >> API, AJAX
