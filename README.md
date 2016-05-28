@@ -1,6 +1,6 @@
 # Portfolio
 
-#Some of the Project links:
+#Some of the upwork Project links:
 
 1. http://agneyasingh.com/ (Full customization with Wordpress parallax theme)
 2. http://www.smartown.ae (Full customization with Wordpress DIVI theme)
@@ -14,7 +14,7 @@
 10. http://www.taraartemis.com/ (php, html/css, js) 
 11. https://allstringsnylon.com (Magento for update, support and maintenance ) and so on...
 
-# Online Courses taken over the time 
+# Online Certification taken over the time 
 
 https://www.codeschool.com/users/2301563
 
