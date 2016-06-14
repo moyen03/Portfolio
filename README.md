@@ -12,7 +12,8 @@
 8. http://www.thebeergiraffe.com/ (update, support and maintenance)
 9. http://carpreview.com/ (update, support and maintenance)
 10. http://www.taraartemis.com/ (php, html/css, js) 
-11. https://allstringsnylon.com (Magento for update, support and maintenance ) and so on...
+11. https://allstringsnylon.com (Magento for update, support and maintenance ) 
+12. liebly.shopboostr.de (Wordpress Listable theme in progress) and so on...
 
 # Online Certifications taken over the time 
 
