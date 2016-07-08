@@ -1,19 +1,32 @@
 # Portfolio
 
-#Some of the upwork Project links:
+#Wordpress:
 
-1. http://agneyasingh.com/ (Full customization with Wordpress parallax theme)
-2. http://www.smartown.ae (Full customization with Wordpress DIVI theme)
-3. http://intempusrealty.com/ (update, support and maintenance)
-4. http://ioniamedia.com/ (Full customization with Wordpress U-Design theme)
-5. http://gilmoreelectric.com/ (Full customization with Wordpress theme)
-6. http://providge.com/ (update, support and maintenance)
-7. http://agniputrafilms.com/ (Full customization with Wordpress parallax theme)
-8. http://www.thebeergiraffe.com/ (update, support and maintenance)
-9. http://carpreview.com/ (update, support and maintenance)
-10. http://www.taraartemis.com/ (php, html/css, js) 
-11. https://allstringsnylon.com (Magento for update, support and maintenance ) 
-12. http://liebly.shopboostr.de (Wordpress Listable theme in progress) and so on...
+1. http://agneyasingh.com/ 
+2. http://www.smartown.ae 
+3. http://intempusrealty.com/ 
+4. http://ioniamedia.com/ 
+5. http://gilmoreelectric.com/ 
+6. http://providge.com/ 
+7. http://agniputrafilms.com/ 
+8. http://www.thebeergiraffe.com/ 
+9. http://carpreview.com/ 
+
+#Wordpress/Woocommerce ( In Progress...):
+
+10. http://s631120688.online.de/ 
+11. http://s627303163.online.de/ (onpro2016)
+12. http://s633426428.online.de/ (einfach)
+13. http://s627303569.online.de/ (gerne)
+
+#XenForo Forum Site ( In Progress...):
+
+12. http://s633426428.online.de/forum/index.php
+
+#Magento:
+
+1. https://allstringsnylon.com/
+2. https://www.enamelware.de/
 
 # Online Certifications taken over the time 
 
