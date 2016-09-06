@@ -12,17 +12,19 @@
 8. http://www.thebeergiraffe.com/ 
 9. http://carpreview.com/ 
 
-#Wordpress/Woocommerce ( In Progress...):
+#Wordpress/Woocommerce:
 
 10. http://s631120688.online.de/ 
 11. http://s627303163.online.de/ (onpro2016)
 12. http://s633426428.online.de/ (einfach)
 13. http://s627303569.online.de/ (gerne)
 14. http://cdown.de/
+15. https://tosaro.de/
+16. http://s638238291.online.de/ (greenleaders2016)
 
-#XenForo Forum Site ( In Progress...):
+#XenForo Forum Site:
 
-12. http://s633426428.online.de/forum/index.php
+17. http://s633426428.online.de/forum/index.php
 
 #Magento:
 
