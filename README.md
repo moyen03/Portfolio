@@ -1,7 +1,6 @@
 # Portfolio
 
 #Wordpress:
-
 1. http://agneyasingh.com/ 
 2. http://www.smartown.ae 
 3. http://intempusrealty.com/ 
@@ -17,7 +16,6 @@
 13.http://www.deutsche-mittelstands-nachrichten.de
 14.http://www.deutsch-tuerkische-nachrichten.de
 15.http://www.deutsche-gesundheits-nachrichten.de
-
 
 #Wordpress/Woocommerce:
 
