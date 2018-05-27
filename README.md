@@ -11,6 +11,13 @@
 7. http://agniputrafilms.com/ 
 8. http://www.thebeergiraffe.com/ 
 9. http://carpreview.com/ 
+10.https://deutsche-wirtschafts-nachrichten.de
+11.http://wirtschaft-in-europa.de
+12.http://deutsche-wirtschafts-nachrichten-unternehmen.de
+13.http://www.deutsche-mittelstands-nachrichten.de
+14.http://www.deutsch-tuerkische-nachrichten.de
+15.http://www.deutsche-gesundheits-nachrichten.de
+
 
 #Wordpress/Woocommerce:
 
@@ -31,7 +38,7 @@
 1. https://allstringsnylon.com/
 2. https://www.enamelware.de/
 3. https://www.thebeergiraffe.eu/
-4. http://mysanu.de/ (in progress ...)
+4. http://mysanu.de/
 
 # Online Certifications taken over the time 
 
