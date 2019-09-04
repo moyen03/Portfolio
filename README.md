@@ -2,6 +2,7 @@
 
 #Contao:
 1. https://www.plugin-alliance.com/
+2.https://www.brainworx.audio/
 
 #Wordpress:
 1. http://agneyasingh.com/ 
@@ -19,20 +20,25 @@
 13. http://www.deutsche-mittelstands-nachrichten.de
 14. http://www.deutsch-tuerkische-nachrichten.de
 15. http://www.deutsche-gesundheits-nachrichten.de
+16. https://www.handvaerk.com/
+17. https://www.ibrahimevsan.de/
+18. http://flawlessnyc.com/
+19. http://blog.allstringsnylon.com/
 
 #Magento:
-
 1. https://allstringsnylon.com/
 2. https://www.enamelware.de/
 3. https://www.thebeergiraffe.eu/
 4. http://mysanu.de/
+5. https://fafaconcepts.com/
+
+#Jquery
+1. https://www.taraartemis.com/
 
 # Online Certifications taken over the time 
-
 https://www.codeschool.com/users/2301563
 
 # GitHub Projects
-
 1. http://moyen03.github.io/landingpage/                 >> HTML5/CSS3, Javascript
 2. http://moyen03.github.io/Bootstrap-website/           >> Bootstrap
 3. http://moyen03.github.io/Bootstrap-Portfolio/         >> Bootstrap
