@@ -6,8 +6,8 @@
 
 #Wordpress:
 
-#. http://transparentplanning.co.uk
-#. http://www.firststone.io/
+1. http://transparentplanning.co.uk
+2. http://www.firststone.io/
 
 1. http://agneyasingh.com/ 
 2. http://www.smartown.ae 
