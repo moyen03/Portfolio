@@ -1,9 +1,5 @@
 # Portfolio
 
-#Contao:
-1. https://www.plugin-alliance.com/
-2. https://www.brainworx.audio/
-
 #Wordpress:
 
 1. http://transparentplanning.co.uk
