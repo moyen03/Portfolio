@@ -2,8 +2,6 @@
 
 #Wordpress:
 
-https://thatgrapejuice.net/ (WP)
-
 1. http://transparentplanning.co.uk
 2. http://www.firststone.io/
 1. http://agneyasingh.com/ 
@@ -26,6 +24,7 @@ https://thatgrapejuice.net/ (WP)
 18. http://flawlessnyc.com/
 19. http://blog.allstringsnylon.com/
 20. https://www.deutschebahn.com/de
+21. https://thatgrapejuice.net/
 
 
 #Magento:
