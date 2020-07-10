@@ -2,9 +2,10 @@
 
 #Wordpress:
 
+https://thatgrapejuice.net/ (WP)
+
 1. http://transparentplanning.co.uk
 2. http://www.firststone.io/
-
 1. http://agneyasingh.com/ 
 2. http://www.smartown.ae 
 3. http://intempusrealty.com/ 
@@ -28,11 +29,17 @@
 
 
 #Magento:
-1. https://allstringsnylon.com/
-2. https://www.enamelware.de/
-3. https://www.thebeergiraffe.eu/
-4. http://mysanu.de/
-5. https://fafaconcepts.com/
+ 
+1. http://www.craigshort.com/ (magento 2)
+2. https://allstringsnylon.com/
+3. https://www.enamelware.de/
+4. https://www.thebeergiraffe.eu/
+5. http://mysanu.de/
+6. https://fafaconcepts.com/
+
+#Contao
+
+1. https://adeo-film.de
 
 #Jquery
 1. https://www.taraartemis.com/
