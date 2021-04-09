@@ -26,6 +26,9 @@
 20. https://www.deutschebahn.com/de
 21. https://thatgrapejuice.net/
 
+#Shopware:
+1. https://flaschenfritz.de/
+2. https://ulivo-limoni.shopware.store/ -- in progress
 
 #Magento:
  
