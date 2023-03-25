@@ -25,19 +25,22 @@
 19. http://blog.allstringsnylon.com/
 20. https://www.deutschebahn.com/de
 21. https://thatgrapejuice.net/
+22. https://weedy.fr/
+23. https://akkredidakt.de/
 
 #Shopware:
 1. https://flaschenfritz.de/
-2. https://ulivo-limoni.shopware.store/ -- in progress
+2. https://ulivo-limoni.shopware.store/
 
 #Magento:
  
-1. http://www.craigshort.com/ (magento 2)
+1. http://www.craigshort.com/
 2. https://allstringsnylon.com/
 3. https://www.enamelware.de/
 4. https://www.thebeergiraffe.eu/
 5. http://mysanu.de/
 6. https://fafaconcepts.com/
+7. https://jonathan.co.il/
 
 #Contao
 
@@ -48,6 +51,9 @@
 
 # Online Certifications taken over the time 
 https://www.codeschool.com/users/2301563
+
+# Software Product Management Specialization by University of Alberta on Coursera. Certificate earned on December 18, 2021
+https://www.coursera.org/account/accomplishments/specialization/certificate/JDAS5NVCAW3N
 
 # GitHub Projects
 1. http://moyen03.github.io/landingpage/                 >> HTML5/CSS3, Javascript
